@@ -15,7 +15,7 @@ const experience = (props) => (
         fixes and feature enhancements."
       />
       <Experienceitem
-        companyname="Noia Solutions and Networks Pvt Ltd (Internship)"
+        companyname="Nokia Solutions and Networks Pvt Ltd (Internship)"
         companyproj="Project -Nokia Canteen Calendar and Feedback Center"
         duration="Oct 2017 - Apr 2018"
         desc1=" This project is aimed to help Nokia employees to check daily Canteen
